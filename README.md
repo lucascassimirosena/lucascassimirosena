@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Lucas,
 <hr>
- 🌱 I’m currently learning Python and C.
+ 🌱 I’m currently learning Python C, C++ and Python.
  <br>
 
 
