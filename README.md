@@ -18,8 +18,6 @@
   <img align="center" alt="LucasSena-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" 
       img align="center" alt="LucasSena-CSS" height="30" width="40>
-
-
 </div>
   
  <!-- COUNTER - I need to work on it.
@@ -28,9 +26,10 @@
  </div>
 --> 
 
+<div>
 <br>
     <a href="https://www.linkedin.com/in/lucas-cassimiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:lucas.cassimiro@live.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:lucas.cassimiro@live.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></div>
 <!--
 **lucascassimirosena/lucascassimirosena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
