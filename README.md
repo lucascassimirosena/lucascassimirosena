@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Lucas, I Game Development student, passionate about technology.
 <hr>
-<p> &#127918; I'm a Game Development, and Unreal Engine student recently working on my self project. </p>
+ &#127918; <p> I'm a Game Development, and Unreal Engine student recently working on my self project. </p>
 
 
 
