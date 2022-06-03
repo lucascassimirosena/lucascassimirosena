@@ -21,11 +21,11 @@
       img align="center" alt="LucasSena-CSS" height="30" width="40>
 </div>
   
-
+<!-->
  <div>
   ![Visitor Count](https://profile-counter.glitch.me/{lucascassimirosena}/count.svg)
  </div>
-
+-->
 
                                                                 
                                                                 
