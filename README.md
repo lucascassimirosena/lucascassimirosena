@@ -16,7 +16,7 @@
  <hr>
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="LucasSena-Python" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="LucasSena-Python" height="30" width="35" src="https://github.com/lucascassimirosena/lucascassimirosena/blob/main/icons/c%20lucas%20sena.png">
   <img align="center" alt="LucasSena-Python" height="30" width="35" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="LucasSena-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="LucasSena-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
