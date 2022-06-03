@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Lucas, I Game Development student, passionate about technology.
 <hr>
- &#127918; I'm a Game Development, and Unreal Engine student recently working on my self project. 
- &#127758; I speak 3 languages: Portuguese, English and French and I like learning new language because I like to understand and connect with people.
- &#128250; As one of my hobbies I like sharing knowledge and creating videos about<a style="color:purple;" href="https://www.youtube.com/channel/UC-pEWG2cqs4WJTvIRkvr0kQ"> games </a> and <a style="color:green;" href="https://www.youtube.com/channel/UCNZSNiIxEB2JW2eZOr_2x4Q"> softwares </a> on my Youtube Channels.
+ <p>&#127918; I'm a Game Development, and Unreal Engine student recently working on my self project. </p>
+ <p> &#127758; I speak 3 languages: Portuguese, English and French and I like learning new language because I like to understand and connect with people. </p>
+ <p>&#128250; As one of my hobbies I like sharing knowledge and creating videos about<a style="color:purple;" href="https://www.youtube.com/channel/UC-pEWG2cqs4WJTvIRkvr0kQ"> games </a> and <a style="color:green;" href="https://www.youtube.com/channel/UCNZSNiIxEB2JW2eZOr_2x4Q"> softwares </a> on my Youtube Channels. </p>
 
 
 
