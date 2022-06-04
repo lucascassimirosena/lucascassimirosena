@@ -15,7 +15,7 @@
   <img align="center" height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=lucascassimirosena&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img align="center" height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascassimirosena&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
- <hr>
+
  
 <div style="display: inline_block"><br>
   <img align="center" alt="LucasSena-C" height="45" width="45" src="https://github.com/lucascassimirosena/lucascassimirosena/blob/main/icons/c%20lucas%20sena.png">
