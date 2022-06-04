@@ -16,12 +16,15 @@
  <hr>
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="LucasSena-Python" height="30" width="35" src="https://github.com/lucascassimirosena/lucascassimirosena/blob/main/icons/c%20lucas%20sena.png">
-  <img align="center" alt="LucasSena-Python" height="30" width="35" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="LucasSena-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="LucasSena-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" 
-      img align="center" alt="LucasSena-CSS" height="30" width="40>
+  <img align="center" alt="LucasSena-C" height="35" width="35" src="https://github.com/lucascassimirosena/lucascassimirosena/blob/main/icons/c%20lucas%20sena.png">
+  <img align="center" alt="LucasSena-Cpp" height="35" width="35" src="https://github.com/lucascassimirosena/lucascassimirosena/blob/main/icons/cpp%20lucas%20sena.png">
+  <img align="center" alt="LucasSena-git" height="35" width="35" src="https://github.com/lucascassimirosena/lucascassimirosena/blob/main/icons/git%20lucas%20sena.png">
+  <img align="center" alt="LucasSena-python" height="35" width="35" src="https://github.com/lucascassimirosena/lucascassimirosena/blob/main/icons/python%20lucas%20sena.png">
+  <img align="center" alt="LucasSena-urealengine" height="35" width="35" src="https://github.com/lucascassimirosena/lucascassimirosena/blob/main/icons/unreal%20engine%20lucas%20sena.png">
+
+
+
+
 </div>
   
 <!-->
