@@ -9,6 +9,20 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
  <br>
 
+<label for="cars">Choose a car:</label>
+<select name="cars" id="cars">
+  <optgroup label="Swedish Cars">
+    <option value="volvo">Volvo</option>
+    <option value="saab">Saab</option>
+  </optgroup>
+  <optgroup label="German Cars">
+    <option value="mercedes">Mercedes</option>
+    <option value="audi">Audi</option>
+  </optgroup>
+</select>
+</div>
+
+
  <hr>
 
  <div>
@@ -27,18 +41,6 @@
   <img align="center" alt="LucasSena-ps" height="45" width="45" src="https://github.com/lucascassimirosena/lucascassimirosena/blob/main/icons/ps.png">
 
 
-<label for="cars">Choose a car:</label>
-<select name="cars" id="cars">
-  <optgroup label="Swedish Cars">
-    <option value="volvo">Volvo</option>
-    <option value="saab">Saab</option>
-  </optgroup>
-  <optgroup label="German Cars">
-    <option value="mercedes">Mercedes</option>
-    <option value="audi">Audi</option>
-  </optgroup>
-</select>
-</div>
 
                                            
                                                                 
