@@ -6,7 +6,7 @@
  <p>&#128250; As one of my hobbies I like sharing knowledge and creating videos about<a style="color:purple;" href="https://www.youtube.com/channel/UC-pEWG2cqs4WJTvIRkvr0kQ"> games </a> and <a style="color:green;" href="https://www.youtube.com/channel/UCNZSNiIxEB2JW2eZOr_2x4Q"> softwares </a> on my Youtube channels. </p>
  <p> &#129309; I'm available for national or international remote jobs as an intern in either Games or Software development.
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=black)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=gray)
  <br>
 
 
