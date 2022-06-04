@@ -25,8 +25,6 @@
   <img align="center" alt="LucasSena-urealengine" height="45" width="45" src="https://github.com/lucascassimirosena/lucascassimirosena/blob/main/icons/unreal%20engine%20lucas%20sena.png">
   <img align="center" alt="LucasSena-ps" height="45" width="45" src="https://github.com/lucascassimirosena/lucascassimirosena/blob/main/icons/ps.png">
 
-<hr>
-
 
 <h2>Find me</h2>
 
