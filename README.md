@@ -9,20 +9,6 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
  <br>
 
-<label for="cars">Choose a car:</label>
-<select name="cars" id="cars">
-  <optgroup label="Swedish Cars">
-    <option value="volvo">Volvo</option>
-    <option value="saab">Saab</option>
-  </optgroup>
-  <optgroup label="German Cars">
-    <option value="mercedes">Mercedes</option>
-    <option value="audi">Audi</option>
-  </optgroup>
-</select>
-</div>
-
-
  <hr>
 
  <div>
@@ -40,8 +26,19 @@
   <img align="center" alt="LucasSena-urealengine" height="45" width="45" src="https://github.com/lucascassimirosena/lucascassimirosena/blob/main/icons/unreal%20engine%20lucas%20sena.png">
   <img align="center" alt="LucasSena-ps" height="45" width="45" src="https://github.com/lucascassimirosena/lucascassimirosena/blob/main/icons/ps.png">
 
+<hr>
 
 
+<h2>Find me</h2>
+
+  <div>
+    <a title="Mail: lucas.cassimiro@live.com" href = "mailto:lucas.cassimiro@live.com">
+      <img src="https://img.shields.io/badge/Email-lucas--cassimiro-inactive">
+    </a>
+    <a title="LinkedIn profile: Lucas Cassimiro Sena Colombo" href="https://img.shields.io/badge/LinkedIn-lucas--cassimiro-inactive">
+      <img src="https://img.shields.io/badge/| LinkedIn-3e3e3e?style=flat-square&logo=linkedin&logoColor=white">
+    </a>
+  </div>
                                            
                                                                 
 <!--
