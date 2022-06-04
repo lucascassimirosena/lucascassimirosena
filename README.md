@@ -21,6 +21,7 @@
   <img align="center" alt="LucasSena-git" height="35" width="35" src="https://github.com/lucascassimirosena/lucascassimirosena/blob/main/icons/git%20lucas%20sena.png">
   <img align="center" alt="LucasSena-python" height="35" width="35" src="https://github.com/lucascassimirosena/lucascassimirosena/blob/main/icons/python%20lucas%20sena.png">
   <img align="center" alt="LucasSena-urealengine" height="35" width="35" src="https://github.com/lucascassimirosena/lucascassimirosena/blob/main/icons/unreal%20engine%20lucas%20sena.png">
+  <img align="center" alt="LucasSena-ps" height="35" width="35" src="https://github.com/lucascassimirosena/lucascassimirosena/blob/main/icons/ps.png">
 
 </div>
   
