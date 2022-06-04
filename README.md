@@ -25,9 +25,10 @@
   <img align="center" alt="LucasSena-ps" height="45" width="45" src="https://github.com/lucascassimirosena/lucascassimirosena/blob/main/icons/ps.png">
 
 </div>
-  
 
-
+<div>
+![](https://komarev.com/ghpvc/?username=lucascassimirosena)
+</div>
                                                                 
                                                                 
 <!--
