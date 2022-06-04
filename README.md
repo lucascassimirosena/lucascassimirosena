@@ -4,7 +4,7 @@
  <p> &#128187; Another area of technology that I like learning about is AI and Machine Learning. I started studying Python because of this interest although I'm currently studying C and C++.
  <p> &#127758; I speak 3 languages: Portuguese, English and French and I like learning new languages because I like to understand and connect with people. </p>
  <p>&#128250; As one of my hobbies I like sharing knowledge and creating videos about<a style="color:purple;" href="https://www.youtube.com/channel/UC-pEWG2cqs4WJTvIRkvr0kQ"> games </a> and <a style="color:green;" href="https://www.youtube.com/channel/UCNZSNiIxEB2JW2eZOr_2x4Q"> softwares </a> on my Youtube Channels. </p>
- <p> &#129309; I'm available for national or international remote jobs.
+ <p> &#129309; I'm available for national or international remote jobs as an intern in Games or Software development.
 
  <br>
 
