@@ -26,7 +26,7 @@
     <a title="Mail: lucas.cassimiro@live.com" href = "mailto:lucas.cassimiro@live.com">
       <img src="https://img.shields.io/badge/Email-lucas--cassimiro-inactive">
     </a>
-    <a title="LinkedIn profile: Lucas Cassimiro Sena Colombo" href="https://www.linkedin.com/in/lucas-cassimiro/" target="_blank">
+    <a title="LinkedIn profile: Lucas Cassimiro Sena Colombo" href="https://www.linkedin.com/in/lucas-csena/" target="_blank">
       <img src="https://img.shields.io/badge/| LinkedIn-3e3e3e?style=flat-square&logo=linkedin&logoColor=white">
     </a>
   </div>
