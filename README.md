@@ -1,19 +1,16 @@
 ### Hi there 👋 I'm Lucas, a Game Development student, passionate about technology.
 <hr>
  <p>&#127918; I'm a Game Development and Unreal Engine student recently working on a self project. </p>
- <p> &#128187; Another area of technology that I like learning about is AI and Machine Learning. I started studying Python because of this interest although I'm currently studying C and C++.
- <p> &#127758; I speak 3 languages: Portuguese, English and French and I like learning new languages because I like to understand and connect with people. </p>
- <p>&#128250; As one of my hobbies I like sharing knowledge and creating videos about<a style="color:purple;" href="https://www.youtube.com/channel/UC-pEWG2cqs4WJTvIRkvr0kQ" target="_blank"> games </a> and <a style="color:green;" href="https://www.youtube.com/channel/UCNZSNiIxEB2JW2eZOr_2x4Q" target="_blank"> softwares </a> on my Youtube channels. </p>
- <p> &#129309; I'm available for national or international remote jobs as an intern in either Games or Software development.
-
-
+ <p> &#128187; Another area of technology that I like learning about is DATA and Machine Learning. I started studying Python because of this interest although I'm currently studying C and C++.
+ <p> &#127758; I speak 2 languages: Portuguese and English and I like learning new languages because I like to understand and connect with people. </p>
+ <p>&#128250; As one of my hobbies I like sharing knowledge and creating videos about<a style="color:purple;" href="https://www.youtube.com/channel/UCBziZLJOU3s3WHTlcRh4MtQ" target="_blank"> games </a> and <a style="color:green;" href="https://www.youtube.com/channel/UCNZSNiIxEB2JW2eZOr_2x4Q" target="_blank"> softwares </a> on my Youtube channels. </p>
+ <p> &#129309; I'm currently not available for full time jobs.
 
  <div>
   <a href="https://github.com/lucascassimirosena">
   <img align="center" height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=lucascassimirosena&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img align="center" height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascassimirosena&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
-
  
 <div style="display: inline_block"><br>
   <img align="center" alt="LucasSena-C" height="45" width="45" src="https://github.com/lucascassimirosena/lucascassimirosena/blob/main/icons/c%20lucas%20sena.png">
@@ -22,7 +19,6 @@
   <img align="center" alt="LucasSena-python" height="45" width="45" src="https://github.com/lucascassimirosena/lucascassimirosena/blob/main/icons/python%20lucas%20sena.png">
   <img align="center" alt="LucasSena-urealengine" height="45" width="45" src="https://github.com/lucascassimirosena/lucascassimirosena/blob/main/icons/unreal%20engine%20lucas%20sena.png">
   <img align="center" alt="LucasSena-ps" height="45" width="45" src="https://github.com/lucascassimirosena/lucascassimirosena/blob/main/icons/ps.png">
-
 
 <h2>Find me</h2>
 
